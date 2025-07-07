@@ -47,11 +47,11 @@ The platform processes scientific data (e.g., Scopus exports) and allows for the
 
 If this repository or the platform has been useful for your research, please consider citing related works such as:
 
-- Lima, F. J., Silva, M. A., & Andrade, R. M. (2023). *Automated Knowledge Discovery for Research Acceleration: A Systematic Review*. Journal of Information Science, 49(2), 231–248. https://doi.org/10.1177/01655515221103697  
-- Zhang, H. et al. (2021). *Text Mining for Technology Foresight: A Deep Learning Approach for Patent Analysis*. Technol. Forecast. Soc. Change, 166, 120602.  
-- Silva, L. T. et al. (2022). *Semantic Graphs and Innovation Mapping in Scientific Literature*. Expert Systems with Applications, 194, 116580.  
-- Gupta, S. et al. (2020). *Machine Learning Approaches for Knowledge Discovery in Patent Data: A Survey*. IEEE Access, 8, 219934–219952.  
-- Wang, J. et al. (2023). *Constructing Knowledge Graphs to Accelerate Scientific Discovery*. Data Science and Engineering, 8(1), 18–35.  
+- BENIN, Keli Rodrigues do Amaral et al. Processamento de linguagem natural e a Ciência da Informação: inter-relações e contribuições. 2023. Dissertação de Mestrado. Universidade Estadual de Londrina.
+- CAPANEMA, Cláudio Gustavo Santos; SILVA, Fabrício Aguiar; LOUREIRO, A. Redes Neurais de Grafos no Contexto das Cidades Inteligentes. Minicursos do XL Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), 2022.
+- MA, Xiaogang. Knowledge graph construction and application in geosciences: A review. Computers & Geosciences, v. 161, p. 105082, 2022.
+- PEU, Ephenia. Automated knowledge discovery or integration: a systematic review of data mining in knowledge management. 2021.
+- ZYOUD, Shaher H.; ZYOUD, Ahed H. Visualization and mapping of knowledge and science landscapes in expert systems with applications journal: A 30 years’ bibliometric analysis. Sage Open, v. 11, n. 2, p. 21582440211027574, 2021. 
 
 ---
 
