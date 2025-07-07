@@ -47,11 +47,11 @@ The platform processes scientific data (e.g., Scopus exports) and allows for the
 
 If this repository or the platform has been useful for your research, please consider citing related works such as:
 
-- BENIN, Keli Rodrigues do Amaral et al. Processamento de linguagem natural e a Ciência da Informação: inter-relações e contribuições. 2023. Dissertação de Mestrado. Universidade Estadual de Londrina.
-- CAPANEMA, Cláudio Gustavo Santos; SILVA, Fabrício Aguiar; LOUREIRO, A. Redes Neurais de Grafos no Contexto das Cidades Inteligentes. Minicursos do XL Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), 2022.
-- MA, Xiaogang. Knowledge graph construction and application in geosciences: A review. Computers & Geosciences, v. 161, p. 105082, 2022.
-- PEU, Ephenia. Automated knowledge discovery or integration: a systematic review of data mining in knowledge management. 2021.
-- ZYOUD, Shaher H.; ZYOUD, Ahed H. Visualization and mapping of knowledge and science landscapes in expert systems with applications journal: A 30 years’ bibliometric analysis. Sage Open, v. 11, n. 2, p. 21582440211027574, 2021. 
+- BENIN, Keli Rodrigues do Amaral et al. *Natural Language Processing and Information Science: Interrelations and Contributions*. 2023. Master's Thesis. State University of Londrina.
+- CAPANEMA, Cláudio Gustavo Santos; SILVA, Fabrício Aguiar; LOUREIRO, A. *Graph Neural Networks in the Context of Smart Cities*. Short Courses of the XL Brazilian Symposium on Computer Networks and Distributed Systems (SBRC), 2022.
+- MA, Xiaogang. *Knowledge graph construction and application in geosciences: A review*. Computers & Geosciences, vol. 161, p. 105082, 2022.
+- PEU, Ephenia. *Automated knowledge discovery or integration: A systematic review of data mining in knowledge management*. 2021.
+- ZYOUD, Shaher H.; ZYOUD, Ahed H. *Visualization and mapping of knowledge and science landscapes in Expert Systems with Applications journal: A 30 years’ bibliometric analysis*. Sage Open, vol. 11, no. 2, p. 21582440211027574, 2021. 
 
 ---
 
